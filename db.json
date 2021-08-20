@@ -1,0 +1,105 @@
+{
+    "topics": [
+        {
+            "id": 1,
+            "title": "یادگیری ریکت",
+            "body": "سلام دوستان مدتی هست که یادگیری ریکت رو شروع کردم اما احساس میکنم چیز زیادی یاد نگرفتم اگه میشه تجربتونو در مورد یادگیری ریکت باهام به اشتراک بزارین",
+            "categoryId": 1,
+            "date": "25/04/1399 20:22",
+            "userId": 1
+        },
+        {
+            "id": 2,
+            "title": "بوت استرپ 4",
+            "body": "آیا میشه هر قالبی رو با بوت استرپ 4 طراحی کرد؟",
+            "categoryId": 1,
+            "date": "25/04/1398 16:22",
+            "userId": 2
+        },
+        {
+            "id": 3,
+            "title": "فعل take",
+            "body": "لطفا هر کسی که زبانش خوبه در مورد فعل take و کاربردهاش بنویسه",
+            "categoryId": 2,
+            "date": "12/11/1399 16:22",
+            "userId": 2
+        },
+        {
+            "id": 4,
+            "title": "پیشنهاد فیلم",
+            "body": "فیلم بازا چند تا فیلم کمدی خوب واسه آخر هفته پیشنهاد بدین",
+            "categoryId": 3,
+            "date": "12/11/1399 16:22",
+            "userId": 3
+        },
+        {
+            "id": 5,
+            "title": "انتخاب سریال",
+            "body": "بنظرتون بین سریال breaking bad و the wire کدومو ببینم",
+            "categoryId": 3,
+            "date": "17/02/1400 16:22",
+            "userId": 3
+        }
+    ],
+    "categories": [
+        {
+            "id": 1,
+            "title": "برنامه نویسی",
+            "slug": "programing"
+        },
+        {
+            "id": 2,
+            "title": "زبان",
+            "slug": "language"
+        },
+        {
+            "id": 3,
+            "title": "فیلم",
+            "slug": "film"
+        }
+    ],
+    "users": [
+        {
+            "id": 1,
+            "firstName": "هادی",
+            "lastName": "شادی",
+            "username": "hsh555",
+            "password": "h12345_h",
+            "email": "hadishadi555@gmail.com"
+        },
+        {
+            "id": 1,
+            "firstName": "علی",
+            "lastName": "محبی",
+            "username": "ali_",
+            "password": "a_1395",
+            "email": "ali.m45@gmail.com"
+        }
+    ],
+    "comments": [
+        {
+            "id": 1,
+            "body": "این یک کامنت است.",
+            "topicId": 1,
+            "userId": 2
+        },
+        {
+            "id": 2,
+            "body": "این یک کامنت درگر است.",
+            "topicId": 1,
+            "userId": 1
+        },
+        {
+            "id": 3,
+            "body": "این یک کامنت درگر است.",
+            "topicId": 2,
+            "userId": 2
+        },
+        {
+            "id": 4,
+            "body": "این یک کامنت درگر است.",
+            "topicId": 3,
+            "userId": 1
+        }
+    ]
+}
